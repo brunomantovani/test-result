@@ -1,6 +1,6 @@
 {
   "nome_projeto": "CompleTest",
-  "qtd_linhas": 300,
-  "qtd_testes": 27,
-  "tempo_execucao": 235.08330988883972
+  "qtd_linhas": 153,
+  "qtd_testes": 10,
+  "tempo_execucao": 73.95761609077454
 }
