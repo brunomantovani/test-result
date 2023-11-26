@@ -1,6 +1,6 @@
 {
-    "nome_projeto": "Projeto Patinho Azul",
-    "qtd_linhas": "23000",
-    "qtd_testes": "50",
-    "tempo_execucao": "7000"
+  "nome_projeto": "CompleTest",
+  "qtd_linhas": 189,
+  "qtd_testes": 14,
+  "tempo_execucao": 117.67159628868103
 }
